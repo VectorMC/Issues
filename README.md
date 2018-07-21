@@ -35,7 +35,7 @@ Issues can be [submitted](https://github.com/VectorMC/Issues/issues/new) using t
 
 ### Suggestions:
 
-* Submit ideas [in the discord #suggestions channel](https://discord.gg/3HReauY).
+* Submit ideas [in the discord #suggestions channel](https://discord.gg/3HReauY), or put them here in case you want to know if we implemented it or not.
 
 ### Example format:
 
